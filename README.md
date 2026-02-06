@@ -96,11 +96,12 @@ python ttl_reproduce.py --domain mix --n_samples 120
 ## 6. 文件结构
 
 * `ttl_reproduce.py`: 主脚本。包含数据生成、LoRA 模型构建、四种方法的 TTL 循环实现、绘图及评估代码。
-* `results/`: 存放实验结果数据（CSV/JSON）。
-* `figs/`: 存放生成的分析图表。
-    * `ppl_trend.png`: 学习曲线。
-    * `comparison.png`: 方法对比柱状图。
-    * `tradeoff.png`: 质量–成本权衡图。
+* `results/`: 实验结果与数据文件夹（已上传）。用于存放实验过程中导出的结果数据与统计信息，格式以 `CSV/JSON` 为主（例如：各方法的指标汇总、迭代过程记录、运行开销/时间统计、不同随机种子或超参数配置下的结果等）。该目录下的数据可用于复现实验对比与生成图表。
+* `figs/`: 存放脚本生成的分析图表。
+    * `ppl_trend.png`: 学习曲线（如 perplexity 或等价指标的趋势变化）。
+    * `comparison.png`: 方法对比柱状图（横向对比主要指标）。
+    * `tradeoff.png`: 质量–成本权衡图（如效果与计算/时间开销的权衡）。
+* `2025439109毛子鋆-机器学习大作业-从Test-Time Training 到大语言模型的Test-Time Learning.pdf`: 项目报告。包含从 Test-Time Training 到大语言模型 Test-Time Learning 的背景综述、方法设计与实现说明、实验设置、结果分析与结论。
 
 ---
 
