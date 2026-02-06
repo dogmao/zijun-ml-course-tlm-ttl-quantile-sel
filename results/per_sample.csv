@@ -1,0 +1,401 @@
+t,method,logppl_in,logppl_out,rougeL_f1,domain_acc,gen_text,pred_domain,true_domain,backward_so_far
+1,Baseline (no update),10.82846450805664,10.818216323852539,0,1.0, factors factors factors factors factors factors f,finance,finance,0
+2,Baseline (no update),10.823395729064941,10.83081340789795,0,1.0, stairs stairs stairs stairs stairs stairs stairs ,medical,medical,0
+3,Baseline (no update),10.826011657714844,10.838443756103516,0,1.0, stairs stairs stairs stairs stairs stairs stairs ,finance,finance,0
+4,Baseline (no update),10.821818351745605,10.833995819091797,0,0.0, stairs stairs stairs stairs stairs stairs stairs ,finance,medical,0
+5,Baseline (no update),10.825599670410156,10.82778549194336,0,1.0, stairs stairs stairs stairs stairs stairs stairs ,finance,finance,0
+6,Baseline (no update),10.823479652404785,10.830324172973633,0,1.0, stairs stairs stairs stairs stairs stairs stairs ,medical,medical,0
+7,Baseline (no update),10.827792167663574,10.818169593811035,0,1.0, factors factors factors factors factors factors f,finance,finance,0
+8,Baseline (no update),10.821552276611328,10.834481239318848,0,1.0, stairs stairs stairs stairs stairs stairs stairs ,finance,finance,0
+9,Baseline (no update),10.82421875,10.834510803222656,0,1.0, stairs stairs stairs stairs stairs stairs stairs ,finance,finance,0
+10,Baseline (no update),10.821417808532715,10.826650619506836,0,1.0, stairs stairs stairs stairs stairs stairs stairs ,medical,medical,0
+11,Baseline (no update),10.822800636291504,10.834500312805176,0,1.0, stairs stairs stairs stairs stairs stairs stairs ,finance,finance,0
+12,Baseline (no update),10.822617530822754,10.830855369567871,0,1.0, stairs stairs stairs stairs stairs stairs stairs ,medical,medical,0
+13,Baseline (no update),10.825353622436523,10.827860832214355,0,1.0, stairs stairs stairs stairs stairs stairs stairs ,finance,finance,0
+14,Baseline (no update),10.824197769165039,10.833637237548828,0,1.0, stairs stairs stairs stairs stairs stairs stairs ,medical,medical,0
+15,Baseline (no update),10.824830055236816,10.838451385498047,0,1.0, stairs stairs stairs stairs stairs stairs stairs ,finance,finance,0
+16,Baseline (no update),10.824755668640137,10.833968162536621,0,1.0, stairs stairs stairs stairs stairs stairs stairs ,medical,medical,0
+17,Baseline (no update),10.82729721069336,10.818220138549805,0,1.0, factors factors factors factors factors factors f,finance,finance,0
+18,Baseline (no update),10.823980331420898,10.834446907043457,0,1.0, stairs stairs stairs stairs stairs stairs stairs ,finance,finance,0
+19,Baseline (no update),10.822257041931152,10.83324909210205,0,1.0, stairs stairs stairs stairs stairs stairs stairs ,medical,medical,0
+20,Baseline (no update),10.82249641418457,10.816530227661133,0,1.0, factors factors factors factors factors factors f,medical,medical,0
+21,Baseline (no update),10.826876640319824,10.833757400512695,0,1.0, stairs stairs stairs stairs stairs stairs stairs ,finance,finance,0
+22,Baseline (no update),10.825942993164062,10.810916900634766,0,1.0, factors factors factors factors factors factors f,finance,finance,0
+23,Baseline (no update),10.822986602783203,10.833698272705078,0,1.0, stairs stairs stairs stairs stairs stairs stairs ,finance,finance,0
+24,Baseline (no update),10.819829940795898,10.833634376525879,0,1.0, stairs stairs stairs stairs stairs stairs stairs ,medical,medical,0
+25,Baseline (no update),10.822433471679688,10.816530227661133,0,1.0, factors factors factors factors factors factors f,medical,medical,0
+26,Baseline (no update),10.825145721435547,10.830839157104492,0,1.0, stairs stairs stairs stairs stairs stairs stairs ,medical,medical,0
+27,Baseline (no update),10.822980880737305,10.834506034851074,0,1.0, stairs stairs stairs stairs stairs stairs stairs ,finance,finance,0
+28,Baseline (no update),10.824352264404297,10.834506034851074,0,1.0, stairs stairs stairs stairs stairs stairs stairs ,finance,finance,0
+29,Baseline (no update),10.822641372680664,10.834514617919922,0,1.0, stairs stairs stairs stairs stairs stairs stairs ,finance,finance,0
+30,Baseline (no update),10.830353736877441,10.810917854309082,0,1.0, factors factors factors factors factors factors f,finance,finance,0
+31,Baseline (no update),10.825268745422363,10.838445663452148,0,1.0, stairs stairs stairs stairs stairs stairs stairs ,finance,finance,0
+32,Baseline (no update),10.821378707885742,10.830819129943848,0,1.0, stairs stairs stairs stairs stairs stairs stairs ,medical,medical,0
+33,Baseline (no update),10.826006889343262,10.838444709777832,0,1.0, stairs stairs stairs stairs stairs stairs stairs ,finance,finance,0
+34,Baseline (no update),10.825328826904297,10.834484100341797,0,1.0, stairs stairs stairs stairs stairs stairs stairs ,finance,finance,0
+35,Baseline (no update),10.82928466796875,10.826712608337402,0,1.0, stairs stairs stairs stairs stairs stairs stairs ,medical,medical,0
+36,Baseline (no update),10.82987117767334,10.810917854309082,0,1.0, factors factors factors factors factors factors f,finance,finance,0
+37,Baseline (no update),10.822968482971191,10.834480285644531,0,1.0, stairs stairs stairs stairs stairs stairs stairs ,finance,finance,0
+38,Baseline (no update),10.823728561401367,10.833968162536621,0,1.0, stairs stairs stairs stairs stairs stairs stairs ,medical,medical,0
+39,Baseline (no update),10.823944091796875,10.833288192749023,0,1.0, stairs stairs stairs stairs stairs stairs stairs ,medical,medical,0
+40,Baseline (no update),10.825021743774414,10.833968162536621,0,1.0, stairs stairs stairs stairs stairs stairs stairs ,medical,medical,0
+41,Baseline (no update),10.824228286743164,10.830814361572266,0,1.0, stairs stairs stairs stairs stairs stairs stairs ,medical,medical,0
+42,Baseline (no update),10.823280334472656,10.833995819091797,0,0.0, stairs stairs stairs stairs stairs stairs stairs ,finance,medical,0
+43,Baseline (no update),10.825311660766602,10.833921432495117,0,0.0, stairs stairs stairs stairs stairs stairs stairs ,finance,medical,0
+44,Baseline (no update),10.824002265930176,10.827816009521484,0,1.0, stairs stairs stairs stairs stairs stairs stairs ,finance,finance,0
+45,Baseline (no update),10.82401180267334,10.834476470947266,0,1.0, stairs stairs stairs stairs stairs stairs stairs ,finance,finance,0
+46,Baseline (no update),10.826904296875,10.818145751953125,0,1.0, factors factors factors factors factors factors f,finance,finance,0
+47,Baseline (no update),10.821640968322754,10.818479537963867,0,1.0, factors factors factors factors factors factors f,medical,medical,0
+48,Baseline (no update),10.826394081115723,10.820889472961426,0,0.0, factors factors factors factors factors factors f,finance,medical,0
+49,Baseline (no update),10.822517395019531,10.83839225769043,0,1.0, stairs stairs stairs stairs stairs stairs stairs ,finance,finance,0
+50,Baseline (no update),10.822465896606445,10.83081340789795,0,1.0, stairs stairs stairs stairs stairs stairs stairs ,medical,medical,0
+51,Baseline (no update),10.827102661132812,10.810916900634766,0,1.0, factors factors factors factors factors factors f,finance,finance,0
+52,Baseline (no update),10.824934959411621,10.81653118133545,0,1.0, factors factors factors factors factors factors f,medical,medical,0
+53,Baseline (no update),10.821878433227539,10.833988189697266,0,1.0, stairs stairs stairs stairs stairs stairs stairs ,medical,medical,0
+54,Baseline (no update),10.824010848999023,10.818258285522461,0,1.0, factors factors factors factors factors factors f,finance,finance,0
+55,Baseline (no update),10.820455551147461,10.827767372131348,0,1.0, stairs stairs stairs stairs stairs stairs stairs ,finance,finance,0
+56,Baseline (no update),10.821002960205078,10.833921432495117,0,1.0, stairs stairs stairs stairs stairs stairs stairs ,medical,medical,0
+57,Baseline (no update),10.828665733337402,10.818243980407715,0,1.0, factors factors factors factors factors factors f,finance,finance,0
+58,Baseline (no update),10.82525634765625,10.833995819091797,0,0.0, stairs stairs stairs stairs stairs stairs stairs ,finance,medical,0
+59,Baseline (no update),10.827096939086914,10.833922386169434,0,1.0, stairs stairs stairs stairs stairs stairs stairs ,medical,medical,0
+60,Baseline (no update),10.822047233581543,10.834494590759277,0,1.0, stairs stairs stairs stairs stairs stairs stairs ,finance,finance,0
+61,Baseline (no update),10.824298858642578,10.833251953125,0,1.0, stairs stairs stairs stairs stairs stairs stairs ,medical,medical,0
+62,Baseline (no update),10.82353687286377,10.839524269104004,0,1.0, stairs stairs stairs stairs stairs stairs stairs ,finance,finance,0
+63,Baseline (no update),10.82188606262207,10.838399887084961,0,1.0, stairs stairs stairs stairs stairs stairs stairs ,finance,finance,0
+64,Baseline (no update),10.81850528717041,10.839524269104004,0,1.0, stairs stairs stairs stairs stairs stairs stairs ,finance,finance,0
+65,Baseline (no update),10.823697090148926,10.833988189697266,0,1.0, stairs stairs stairs stairs stairs stairs stairs ,medical,medical,0
+66,Baseline (no update),10.82318115234375,10.816557884216309,0,1.0, factors factors factors factors factors factors f,medical,medical,0
+67,Baseline (no update),10.827383995056152,10.818158149719238,0,1.0, factors factors factors factors factors factors f,finance,finance,0
+68,Baseline (no update),10.825047492980957,10.833250045776367,0,1.0, stairs stairs stairs stairs stairs stairs stairs ,medical,medical,0
+69,Baseline (no update),10.823698043823242,10.834494590759277,0,1.0, stairs stairs stairs stairs stairs stairs stairs ,finance,finance,0
+70,Baseline (no update),10.821812629699707,10.826668739318848,0,1.0, stairs stairs stairs stairs stairs stairs stairs ,medical,medical,0
+71,Baseline (no update),10.824983596801758,10.839451789855957,0,1.0, stairs stairs stairs stairs stairs stairs stairs ,finance,finance,0
+72,Baseline (no update),10.825215339660645,10.830321311950684,0,1.0, stairs stairs stairs stairs stairs stairs stairs ,medical,medical,0
+73,Baseline (no update),10.81995964050293,10.827751159667969,0,1.0, stairs stairs stairs stairs stairs stairs stairs ,finance,finance,0
+74,Baseline (no update),10.828898429870605,10.81821346282959,0,1.0, factors factors factors factors factors factors f,finance,finance,0
+75,Baseline (no update),10.825634002685547,10.833253860473633,0,0.0, stairs stairs stairs stairs stairs stairs stairs ,finance,medical,0
+76,Baseline (no update),10.824570655822754,10.830849647521973,0,1.0, stairs stairs stairs stairs stairs stairs stairs ,medical,medical,0
+77,Baseline (no update),10.82453441619873,10.820880889892578,0,1.0, factors factors factors factors factors factors f,medical,medical,0
+78,Baseline (no update),10.822591781616211,10.830822944641113,0,0.0, stairs stairs stairs stairs stairs stairs stairs ,finance,medical,0
+79,Baseline (no update),10.823906898498535,10.834481239318848,0,1.0, stairs stairs stairs stairs stairs stairs stairs ,finance,finance,0
+80,Baseline (no update),10.820693016052246,10.838393211364746,0,1.0, stairs stairs stairs stairs stairs stairs stairs ,finance,finance,0
+81,Baseline (no update),10.824167251586914,10.81653118133545,0,1.0, factors factors factors factors factors factors f,medical,medical,0
+82,Baseline (no update),10.822941780090332,10.834004402160645,0,1.0, stairs stairs stairs stairs stairs stairs stairs ,medical,medical,0
+83,Baseline (no update),10.826554298400879,10.838448524475098,0,1.0, stairs stairs stairs stairs stairs stairs stairs ,finance,finance,0
+84,Baseline (no update),10.82616138458252,10.83082389831543,0,1.0, stairs stairs stairs stairs stairs stairs stairs ,medical,medical,0
+85,Baseline (no update),10.827226638793945,10.810916900634766,0,1.0, factors factors factors factors factors factors f,finance,finance,0
+86,Baseline (no update),10.822890281677246,10.820820808410645,0,1.0, factors factors factors factors factors factors f,medical,medical,0
+87,Baseline (no update),10.820794105529785,10.834004402160645,0,1.0, stairs stairs stairs stairs stairs stairs stairs ,medical,medical,0
+88,Baseline (no update),10.827470779418945,10.83378791809082,0,1.0, stairs stairs stairs stairs stairs stairs stairs ,finance,finance,0
+89,Baseline (no update),10.829096794128418,10.818187713623047,0,1.0, factors factors factors factors factors factors f,finance,finance,0
+90,Baseline (no update),10.831384658813477,10.818196296691895,0,1.0, factors factors factors factors factors factors f,finance,finance,0
+91,Baseline (no update),10.826069831848145,10.833995819091797,0,1.0, stairs stairs stairs stairs stairs stairs stairs ,medical,medical,0
+92,Baseline (no update),10.82537841796875,10.81653118133545,0,0.0, factors factors factors factors factors factors f,finance,medical,0
+93,Baseline (no update),10.822945594787598,10.833995819091797,0,0.0, stairs stairs stairs stairs stairs stairs stairs ,finance,medical,0
+94,Baseline (no update),10.821564674377441,10.833995819091797,0,0.0, stairs stairs stairs stairs stairs stairs stairs ,finance,medical,0
+95,Baseline (no update),10.826278686523438,10.830846786499023,0,1.0, stairs stairs stairs stairs stairs stairs stairs ,medical,medical,0
+96,Baseline (no update),10.825876235961914,10.833288192749023,0,1.0, stairs stairs stairs stairs stairs stairs stairs ,medical,medical,0
+97,Baseline (no update),10.825654029846191,10.83838939666748,0,1.0, stairs stairs stairs stairs stairs stairs stairs ,finance,finance,0
+98,Baseline (no update),10.824310302734375,10.833995819091797,0,1.0, stairs stairs stairs stairs stairs stairs stairs ,medical,medical,0
+99,Baseline (no update),10.82613754272461,10.816530227661133,0,0.0, factors factors factors factors factors factors f,finance,medical,0
+100,Baseline (no update),10.827009201049805,10.820862770080566,0,0.0, factors factors factors factors factors factors f,finance,medical,0
+1,TTL w/o SEL,10.82846450805664,10.818293571472168,0,1.0, factors factors factors factors factors factors f,finance,finance,2
+2,TTL w/o SEL,10.823399543762207,10.830947875976562,0,1.0, stairs stairs stairs stairs stairs stairs stairs ,medical,medical,4
+3,TTL w/o SEL,10.826044082641602,10.838431358337402,0,1.0, stairs stairs stairs stairs stairs stairs stairs ,finance,finance,6
+4,TTL w/o SEL,10.821589469909668,10.83399772644043,0,0.0, stairs stairs stairs stairs stairs stairs stairs ,finance,medical,8
+5,TTL w/o SEL,10.825556755065918,10.828235626220703,0,1.0, stairs stairs stairs stairs stairs stairs stairs ,finance,finance,10
+6,TTL w/o SEL,10.823498725891113,10.830530166625977,0,1.0, stairs stairs stairs stairs stairs stairs stairs ,medical,medical,12
+7,TTL w/o SEL,10.827489852905273,10.819236755371094,0,1.0, factors factors factors factors factors factors f,finance,finance,14
+8,TTL w/o SEL,10.821478843688965,10.835240364074707,0,1.0, stairs stairs stairs stairs stairs stairs stairs ,finance,finance,16
+9,TTL w/o SEL,10.823866844177246,10.834939002990723,0,1.0, stairs stairs stairs stairs stairs stairs stairs ,finance,finance,18
+10,TTL w/o SEL,10.821000099182129,10.827568054199219,0,1.0, stairs stairs stairs stairs stairs stairs stairs ,medical,medical,20
+11,TTL w/o SEL,10.822709083557129,10.835225105285645,0,1.0, stairs stairs stairs stairs stairs stairs stairs ,finance,finance,22
+12,TTL w/o SEL,10.822174072265625,10.830708503723145,0,1.0, stairs stairs stairs stairs stairs stairs stairs ,medical,medical,24
+13,TTL w/o SEL,10.825590133666992,10.82736873626709,0,1.0, stairs stairs stairs stairs stairs stairs stairs ,finance,finance,26
+14,TTL w/o SEL,10.823490142822266,10.833642959594727,0,1.0, stairs stairs stairs stairs stairs stairs stairs ,medical,medical,28
+15,TTL w/o SEL,10.82568073272705,10.83825969696045,0,1.0, stairs stairs stairs stairs stairs stairs stairs ,finance,finance,30
+16,TTL w/o SEL,10.82437801361084,10.833978652954102,0,1.0, stairs stairs stairs stairs stairs stairs stairs ,medical,medical,32
+17,TTL w/o SEL,10.826895713806152,10.81879997253418,0,1.0, factors factors factors factors factors factors f,finance,finance,34
+18,TTL w/o SEL,10.823554039001465,10.836109161376953,0,1.0, stairs stairs stairs stairs stairs stairs stairs ,finance,finance,36
+19,TTL w/o SEL,10.822176933288574,10.833380699157715,0,1.0, stairs stairs stairs stairs stairs stairs stairs ,medical,medical,38
+20,TTL w/o SEL,10.82210922241211,10.81653118133545,0,1.0, factors factors factors factors factors factors f,medical,medical,40
+21,TTL w/o SEL,10.828618049621582,10.83361530303955,0,1.0, stairs stairs stairs stairs stairs stairs stairs ,finance,finance,42
+22,TTL w/o SEL,10.827199935913086,10.810914993286133,0,1.0, factors factors factors factors factors factors f,finance,finance,44
+23,TTL w/o SEL,10.823395729064941,10.83449649810791,0,1.0, stairs stairs stairs stairs stairs stairs stairs ,finance,finance,46
+24,TTL w/o SEL,10.819424629211426,10.833696365356445,0,1.0, stairs stairs stairs stairs stairs stairs stairs ,medical,medical,48
+25,TTL w/o SEL,10.82221794128418,10.81653118133545,0,1.0, factors factors factors factors factors factors f,medical,medical,50
+26,TTL w/o SEL,10.824941635131836,10.831011772155762,0,1.0, stairs stairs stairs stairs stairs stairs stairs ,medical,medical,52
+27,TTL w/o SEL,10.82289981842041,10.835183143615723,0,1.0, stairs stairs stairs stairs stairs stairs stairs ,finance,finance,54
+28,TTL w/o SEL,10.82441234588623,10.83520793914795,0,1.0, stairs stairs stairs stairs stairs stairs stairs ,finance,finance,56
+29,TTL w/o SEL,10.822823524475098,10.835110664367676,0,1.0, stairs stairs stairs stairs stairs stairs stairs ,finance,finance,58
+30,TTL w/o SEL,10.83018970489502,10.81091594696045,0,1.0, factors factors factors factors factors factors f,finance,finance,60
+31,TTL w/o SEL,10.825502395629883,10.838431358337402,0,1.0, stairs stairs stairs stairs stairs stairs stairs ,finance,finance,62
+32,TTL w/o SEL,10.82120418548584,10.831343650817871,0,1.0, stairs stairs stairs stairs stairs stairs stairs ,medical,medical,64
+33,TTL w/o SEL,10.825737953186035,10.838454246520996,0,1.0, stairs stairs stairs stairs stairs stairs stairs ,finance,finance,66
+34,TTL w/o SEL,10.825281143188477,10.835465431213379,0,1.0, stairs stairs stairs stairs stairs stairs stairs ,finance,finance,68
+35,TTL w/o SEL,10.8290433883667,10.82655143737793,0,1.0, stairs stairs stairs stairs stairs stairs stairs ,medical,medical,70
+36,TTL w/o SEL,10.830215454101562,10.810916900634766,0,1.0, factors factors factors factors factors factors f,finance,finance,72
+37,TTL w/o SEL,10.822874069213867,10.835502624511719,0,1.0, stairs stairs stairs stairs stairs stairs stairs ,finance,finance,74
+38,TTL w/o SEL,10.823681831359863,10.833975791931152,0,1.0, stairs stairs stairs stairs stairs stairs stairs ,medical,medical,76
+39,TTL w/o SEL,10.823718070983887,10.8333158493042,0,1.0, stairs stairs stairs stairs stairs stairs stairs ,medical,medical,78
+40,TTL w/o SEL,10.824785232543945,10.833977699279785,0,1.0, stairs stairs stairs stairs stairs stairs stairs ,medical,medical,80
+41,TTL w/o SEL,10.824066162109375,10.831459045410156,0,1.0, stairs stairs stairs stairs stairs stairs stairs ,medical,medical,82
+42,TTL w/o SEL,10.823491096496582,10.833999633789062,0,0.0, stairs stairs stairs stairs stairs stairs stairs ,finance,medical,84
+43,TTL w/o SEL,10.825154304504395,10.833922386169434,0,0.0, stairs stairs stairs stairs stairs stairs stairs ,finance,medical,86
+44,TTL w/o SEL,10.824210166931152,10.828377723693848,0,1.0, stairs stairs stairs stairs stairs stairs stairs ,finance,finance,88
+45,TTL w/o SEL,10.824209213256836,10.83578109741211,0,1.0, stairs stairs stairs stairs stairs stairs stairs ,finance,finance,90
+46,TTL w/o SEL,10.826664924621582,10.820308685302734,0,1.0, factors factors factors factors factors factors f,finance,finance,92
+47,TTL w/o SEL,10.821812629699707,10.818696022033691,0,1.0, factors factors factors factors factors factors f,medical,medical,94
+48,TTL w/o SEL,10.826847076416016,10.82054328918457,0,0.0, factors factors factors factors factors factors f,finance,medical,96
+49,TTL w/o SEL,10.822497367858887,10.838383674621582,0,1.0, stairs stairs stairs stairs stairs stairs stairs ,finance,finance,98
+50,TTL w/o SEL,10.822066307067871,10.831597328186035,0,1.0, stairs stairs stairs stairs stairs stairs stairs ,medical,medical,100
+51,TTL w/o SEL,10.82868766784668,10.810914993286133,0,1.0, factors factors factors factors factors factors f,finance,finance,102
+52,TTL w/o SEL,10.824685096740723,10.816530227661133,0,1.0, factors factors factors factors factors factors f,medical,medical,104
+53,TTL w/o SEL,10.821616172790527,10.83399486541748,0,1.0, stairs stairs stairs stairs stairs stairs stairs ,medical,medical,106
+54,TTL w/o SEL,10.82424259185791,10.817855834960938,0,1.0, factors factors factors factors factors factors f,finance,finance,108
+55,TTL w/o SEL,10.820277214050293,10.82927131652832,0,1.0, stairs stairs stairs stairs stairs stairs stairs ,finance,finance,110
+56,TTL w/o SEL,10.820954322814941,10.833938598632812,0,1.0, stairs stairs stairs stairs stairs stairs stairs ,medical,medical,112
+57,TTL w/o SEL,10.828618049621582,10.818069458007812,0,1.0, factors factors factors factors factors factors f,finance,finance,114
+58,TTL w/o SEL,10.825234413146973,10.834004402160645,0,0.0, stairs stairs stairs stairs stairs stairs stairs ,finance,medical,116
+59,TTL w/o SEL,10.826566696166992,10.833930015563965,0,1.0, stairs stairs stairs stairs stairs stairs stairs ,medical,medical,118
+60,TTL w/o SEL,10.821657180786133,10.835649490356445,0,1.0, stairs stairs stairs stairs stairs stairs stairs ,finance,finance,120
+61,TTL w/o SEL,10.82421588897705,10.833325386047363,0,1.0, stairs stairs stairs stairs stairs stairs stairs ,medical,medical,122
+62,TTL w/o SEL,10.823593139648438,10.839540481567383,0,1.0, stairs stairs stairs stairs stairs stairs stairs ,finance,finance,124
+63,TTL w/o SEL,10.823134422302246,10.838203430175781,0,1.0, stairs stairs stairs stairs stairs stairs stairs ,finance,finance,126
+64,TTL w/o SEL,10.817814826965332,10.839543342590332,0,1.0, stairs stairs stairs stairs stairs stairs stairs ,finance,finance,128
+65,TTL w/o SEL,10.823226928710938,10.833995819091797,0,1.0, stairs stairs stairs stairs stairs stairs stairs ,medical,medical,130
+66,TTL w/o SEL,10.822690963745117,10.816556930541992,0,1.0, factors factors factors factors factors factors f,medical,medical,132
+67,TTL w/o SEL,10.827751159667969,10.820412635803223,0,1.0, factors factors factors factors factors factors f,finance,finance,134
+68,TTL w/o SEL,10.824786186218262,10.833356857299805,0,1.0, stairs stairs stairs stairs stairs stairs stairs ,medical,medical,136
+69,TTL w/o SEL,10.823232650756836,10.835671424865723,0,1.0, stairs stairs stairs stairs stairs stairs stairs ,finance,finance,138
+70,TTL w/o SEL,10.821403503417969,10.82755184173584,0,1.0, stairs stairs stairs stairs stairs stairs stairs ,medical,medical,140
+71,TTL w/o SEL,10.824833869934082,10.839441299438477,0,1.0, stairs stairs stairs stairs stairs stairs stairs ,finance,finance,142
+72,TTL w/o SEL,10.825203895568848,10.83094596862793,0,1.0, stairs stairs stairs stairs stairs stairs stairs ,medical,medical,144
+73,TTL w/o SEL,10.820152282714844,10.829947471618652,0,1.0, stairs stairs stairs stairs stairs stairs stairs ,finance,finance,146
+74,TTL w/o SEL,10.82892894744873,10.81931209564209,0,1.0, factors factors factors factors factors factors f,finance,finance,148
+75,TTL w/o SEL,10.826013565063477,10.833292961120605,0,0.0, stairs stairs stairs stairs stairs stairs stairs ,finance,medical,150
+76,TTL w/o SEL,10.823725700378418,10.830900192260742,0,1.0, stairs stairs stairs stairs stairs stairs stairs ,medical,medical,152
+77,TTL w/o SEL,10.824114799499512,10.820796966552734,0,1.0, factors factors factors factors factors factors f,medical,medical,154
+78,TTL w/o SEL,10.822020530700684,10.831554412841797,0,0.0, stairs stairs stairs stairs stairs stairs stairs ,finance,medical,156
+79,TTL w/o SEL,10.82379150390625,10.836188316345215,0,1.0, stairs stairs stairs stairs stairs stairs stairs ,finance,finance,158
+80,TTL w/o SEL,10.822705268859863,10.838333129882812,0,1.0, stairs stairs stairs stairs stairs stairs stairs ,finance,finance,160
+81,TTL w/o SEL,10.82366943359375,10.81653118133545,0,1.0, factors factors factors factors factors factors f,medical,medical,162
+82,TTL w/o SEL,10.821906089782715,10.834012985229492,0,1.0, stairs stairs stairs stairs stairs stairs stairs ,medical,medical,164
+83,TTL w/o SEL,10.827803611755371,10.838423728942871,0,1.0, stairs stairs stairs stairs stairs stairs stairs ,finance,finance,166
+84,TTL w/o SEL,10.825934410095215,10.83172607421875,0,1.0, stairs stairs stairs stairs stairs stairs stairs ,medical,medical,168
+85,TTL w/o SEL,10.827404022216797,10.810916900634766,0,1.0, factors factors factors factors factors factors f,finance,finance,170
+86,TTL w/o SEL,10.822274208068848,10.823829650878906,0,1.0, factors factors factors factors factors factors f,medical,medical,172
+87,TTL w/o SEL,10.818940162658691,10.834013938903809,0,1.0, stairs stairs stairs stairs stairs stairs stairs ,medical,medical,174
+88,TTL w/o SEL,10.826361656188965,10.832366943359375,0,1.0, stairs stairs stairs stairs stairs stairs stairs ,finance,finance,176
+89,TTL w/o SEL,10.829534530639648,10.821208953857422,0,1.0, factors factors factors factors factors factors f,finance,finance,178
+90,TTL w/o SEL,10.830729484558105,10.820387840270996,0,1.0, factors factors factors factors factors factors f,finance,finance,180
+91,TTL w/o SEL,10.826127052307129,10.834012031555176,0,1.0, stairs stairs stairs stairs stairs stairs stairs ,medical,medical,182
+92,TTL w/o SEL,10.825617790222168,10.816532135009766,0,0.0, factors factors factors factors factors factors f,finance,medical,184
+93,TTL w/o SEL,10.822280883789062,10.834003448486328,0,0.0, stairs stairs stairs stairs stairs stairs stairs ,finance,medical,186
+94,TTL w/o SEL,10.82086181640625,10.834003448486328,0,0.0, stairs stairs stairs stairs stairs stairs stairs ,finance,medical,188
+95,TTL w/o SEL,10.825382232666016,10.83108901977539,0,1.0, stairs stairs stairs stairs stairs stairs stairs ,medical,medical,190
+96,TTL w/o SEL,10.825294494628906,10.83329963684082,0,1.0, stairs stairs stairs stairs stairs stairs stairs ,medical,medical,192
+97,TTL w/o SEL,10.823163986206055,10.838582038879395,0,1.0, stairs stairs stairs stairs stairs stairs stairs ,finance,finance,194
+98,TTL w/o SEL,10.823527336120605,10.834000587463379,0,1.0, stairs stairs stairs stairs stairs stairs stairs ,medical,medical,196
+99,TTL w/o SEL,10.826204299926758,10.816534996032715,0,0.0, factors factors factors factors factors factors f,finance,medical,198
+100,TTL w/o SEL,10.82654094696045,10.821763038635254,0,0.0, factors factors factors factors factors factors f,finance,medical,200
+1,TTL w/ Fixed-SEL (logP0=10.83),10.82846450805664,10.818293571472168,0,1.0, factors factors factors factors factors factors f,finance,finance,2
+2,TTL w/ Fixed-SEL (logP0=10.83),10.823399543762207,10.830892562866211,0,1.0, stairs stairs stairs stairs stairs stairs stairs ,medical,medical,2
+3,TTL w/ Fixed-SEL (logP0=10.83),10.826028823852539,10.838438034057617,0,1.0, stairs stairs stairs stairs stairs stairs stairs ,finance,finance,4
+4,TTL w/ Fixed-SEL (logP0=10.83),10.8217134475708,10.833995819091797,0,0.0, stairs stairs stairs stairs stairs stairs stairs ,finance,medical,4
+5,TTL w/ Fixed-SEL (logP0=10.83),10.825586318969727,10.827913284301758,0,1.0, stairs stairs stairs stairs stairs stairs stairs ,finance,finance,4
+6,TTL w/ Fixed-SEL (logP0=10.83),10.823481559753418,10.83036994934082,0,1.0, stairs stairs stairs stairs stairs stairs stairs ,medical,medical,4
+7,TTL w/ Fixed-SEL (logP0=10.83),10.82773494720459,10.818466186523438,0,1.0, factors factors factors factors factors factors f,finance,finance,6
+8,TTL w/ Fixed-SEL (logP0=10.83),10.821528434753418,10.834685325622559,0,1.0, stairs stairs stairs stairs stairs stairs stairs ,finance,finance,6
+9,TTL w/ Fixed-SEL (logP0=10.83),10.824152946472168,10.834606170654297,0,1.0, stairs stairs stairs stairs stairs stairs stairs ,finance,finance,6
+10,TTL w/ Fixed-SEL (logP0=10.83),10.821309089660645,10.826825141906738,0,1.0, stairs stairs stairs stairs stairs stairs stairs ,medical,medical,6
+11,TTL w/ Fixed-SEL (logP0=10.83),10.822789192199707,10.834634780883789,0,1.0, stairs stairs stairs stairs stairs stairs stairs ,finance,finance,6
+12,TTL w/ Fixed-SEL (logP0=10.83),10.82258129119873,10.83080768585205,0,1.0, stairs stairs stairs stairs stairs stairs stairs ,medical,medical,6
+13,TTL w/ Fixed-SEL (logP0=10.83),10.825406074523926,10.827750205993652,0,1.0, stairs stairs stairs stairs stairs stairs stairs ,finance,finance,6
+14,TTL w/ Fixed-SEL (logP0=10.83),10.82413387298584,10.833637237548828,0,1.0, stairs stairs stairs stairs stairs stairs stairs ,medical,medical,6
+15,TTL w/ Fixed-SEL (logP0=10.83),10.824931144714355,10.83841323852539,0,1.0, stairs stairs stairs stairs stairs stairs stairs ,finance,finance,6
+16,TTL w/ Fixed-SEL (logP0=10.83),10.824719429016113,10.833969116210938,0,1.0, stairs stairs stairs stairs stairs stairs stairs ,medical,medical,6
+17,TTL w/ Fixed-SEL (logP0=10.83),10.827269554138184,10.818359375,0,1.0, factors factors factors factors factors factors f,finance,finance,8
+18,TTL w/ Fixed-SEL (logP0=10.83),10.823915481567383,10.834897994995117,0,1.0, stairs stairs stairs stairs stairs stairs stairs ,finance,finance,8
+19,TTL w/ Fixed-SEL (logP0=10.83),10.822257041931152,10.83327579498291,0,1.0, stairs stairs stairs stairs stairs stairs stairs ,medical,medical,8
+20,TTL w/ Fixed-SEL (logP0=10.83),10.822430610656738,10.81653118133545,0,1.0, factors factors factors factors factors factors f,medical,medical,8
+21,TTL w/ Fixed-SEL (logP0=10.83),10.827230453491211,10.833636283874512,0,1.0, stairs stairs stairs stairs stairs stairs stairs ,finance,finance,10
+22,TTL w/ Fixed-SEL (logP0=10.83),10.82619857788086,10.810916900634766,0,1.0, factors factors factors factors factors factors f,finance,finance,12
+23,TTL w/ Fixed-SEL (logP0=10.83),10.823027610778809,10.83378791809082,0,1.0, stairs stairs stairs stairs stairs stairs stairs ,finance,finance,12
+24,TTL w/ Fixed-SEL (logP0=10.83),10.819777488708496,10.833642959594727,0,1.0, stairs stairs stairs stairs stairs stairs stairs ,medical,medical,12
+25,TTL w/ Fixed-SEL (logP0=10.83),10.822393417358398,10.81653118133545,0,1.0, factors factors factors factors factors factors f,medical,medical,12
+26,TTL w/ Fixed-SEL (logP0=10.83),10.825118064880371,10.830848693847656,0,1.0, stairs stairs stairs stairs stairs stairs stairs ,medical,medical,12
+27,TTL w/ Fixed-SEL (logP0=10.83),10.822967529296875,10.834590911865234,0,1.0, stairs stairs stairs stairs stairs stairs stairs ,finance,finance,12
+28,TTL w/ Fixed-SEL (logP0=10.83),10.824359893798828,10.834590911865234,0,1.0, stairs stairs stairs stairs stairs stairs stairs ,finance,finance,12
+29,TTL w/ Fixed-SEL (logP0=10.83),10.822657585144043,10.834575653076172,0,1.0, stairs stairs stairs stairs stairs stairs stairs ,finance,finance,12
+30,TTL w/ Fixed-SEL (logP0=10.83),10.830339431762695,10.810916900634766,0,1.0, factors factors factors factors factors factors f,finance,finance,14
+31,TTL w/ Fixed-SEL (logP0=10.83),10.82529067993164,10.838438987731934,0,1.0, stairs stairs stairs stairs stairs stairs stairs ,finance,finance,14
+32,TTL w/ Fixed-SEL (logP0=10.83),10.82136058807373,10.830853462219238,0,1.0, stairs stairs stairs stairs stairs stairs stairs ,medical,medical,14
+33,TTL w/ Fixed-SEL (logP0=10.83),10.825986862182617,10.838443756103516,0,1.0, stairs stairs stairs stairs stairs stairs stairs ,finance,finance,16
+34,TTL w/ Fixed-SEL (logP0=10.83),10.825324058532715,10.834501266479492,0,1.0, stairs stairs stairs stairs stairs stairs stairs ,finance,finance,16
+35,TTL w/ Fixed-SEL (logP0=10.83),10.8292818069458,10.826717376708984,0,1.0, stairs stairs stairs stairs stairs stairs stairs ,medical,medical,18
+36,TTL w/ Fixed-SEL (logP0=10.83),10.829866409301758,10.810917854309082,0,1.0, factors factors factors factors factors factors f,finance,finance,20
+37,TTL w/ Fixed-SEL (logP0=10.83),10.822978973388672,10.834404945373535,0,1.0, stairs stairs stairs stairs stairs stairs stairs ,finance,finance,20
+38,TTL w/ Fixed-SEL (logP0=10.83),10.823723793029785,10.833967208862305,0,1.0, stairs stairs stairs stairs stairs stairs stairs ,medical,medical,20
+39,TTL w/ Fixed-SEL (logP0=10.83),10.82396125793457,10.833287239074707,0,1.0, stairs stairs stairs stairs stairs stairs stairs ,medical,medical,20
+40,TTL w/ Fixed-SEL (logP0=10.83),10.825029373168945,10.833968162536621,0,1.0, stairs stairs stairs stairs stairs stairs stairs ,medical,medical,20
+41,TTL w/ Fixed-SEL (logP0=10.83),10.824238777160645,10.830774307250977,0,1.0, stairs stairs stairs stairs stairs stairs stairs ,medical,medical,20
+42,TTL w/ Fixed-SEL (logP0=10.83),10.823267936706543,10.833995819091797,0,0.0, stairs stairs stairs stairs stairs stairs stairs ,finance,medical,20
+43,TTL w/ Fixed-SEL (logP0=10.83),10.825324058532715,10.833921432495117,0,0.0, stairs stairs stairs stairs stairs stairs stairs ,finance,medical,20
+44,TTL w/ Fixed-SEL (logP0=10.83),10.823988914489746,10.827798843383789,0,1.0, stairs stairs stairs stairs stairs stairs stairs ,finance,finance,20
+45,TTL w/ Fixed-SEL (logP0=10.83),10.824000358581543,10.834397315979004,0,1.0, stairs stairs stairs stairs stairs stairs stairs ,finance,finance,20
+46,TTL w/ Fixed-SEL (logP0=10.83),10.826916694641113,10.817937850952148,0,1.0, factors factors factors factors factors factors f,finance,finance,22
+47,TTL w/ Fixed-SEL (logP0=10.83),10.8216552734375,10.818456649780273,0,1.0, factors factors factors factors factors factors f,medical,medical,22
+48,TTL w/ Fixed-SEL (logP0=10.83),10.826351165771484,10.820924758911133,0,0.0, factors factors factors factors factors factors f,finance,medical,24
+49,TTL w/ Fixed-SEL (logP0=10.83),10.822561264038086,10.838404655456543,0,1.0, stairs stairs stairs stairs stairs stairs stairs ,finance,finance,24
+50,TTL w/ Fixed-SEL (logP0=10.83),10.822484016418457,10.830719947814941,0,1.0, stairs stairs stairs stairs stairs stairs stairs ,medical,medical,24
+51,TTL w/ Fixed-SEL (logP0=10.83),10.826864242553711,10.810917854309082,0,1.0, factors factors factors factors factors factors f,finance,finance,26
+52,TTL w/ Fixed-SEL (logP0=10.83),10.824997901916504,10.816530227661133,0,1.0, factors factors factors factors factors factors f,medical,medical,26
+53,TTL w/ Fixed-SEL (logP0=10.83),10.821879386901855,10.833988189697266,0,1.0, stairs stairs stairs stairs stairs stairs stairs ,medical,medical,26
+54,TTL w/ Fixed-SEL (logP0=10.83),10.824017524719238,10.818336486816406,0,1.0, factors factors factors factors factors factors f,finance,finance,26
+55,TTL w/ Fixed-SEL (logP0=10.83),10.820477485656738,10.827474594116211,0,1.0, stairs stairs stairs stairs stairs stairs stairs ,finance,finance,26
+56,TTL w/ Fixed-SEL (logP0=10.83),10.821012496948242,10.833918571472168,0,1.0, stairs stairs stairs stairs stairs stairs stairs ,medical,medical,26
+57,TTL w/ Fixed-SEL (logP0=10.83),10.828642845153809,10.818264961242676,0,1.0, factors factors factors factors factors factors f,finance,finance,28
+58,TTL w/ Fixed-SEL (logP0=10.83),10.82524585723877,10.833993911743164,0,0.0, stairs stairs stairs stairs stairs stairs stairs ,finance,medical,28
+59,TTL w/ Fixed-SEL (logP0=10.83),10.82721996307373,10.8339204788208,0,1.0, stairs stairs stairs stairs stairs stairs stairs ,medical,medical,30
+60,TTL w/ Fixed-SEL (logP0=10.83),10.822185516357422,10.834187507629395,0,1.0, stairs stairs stairs stairs stairs stairs stairs ,finance,finance,30
+61,TTL w/ Fixed-SEL (logP0=10.83),10.824321746826172,10.833242416381836,0,1.0, stairs stairs stairs stairs stairs stairs stairs ,medical,medical,30
+62,TTL w/ Fixed-SEL (logP0=10.83),10.82352066040039,10.839521408081055,0,1.0, stairs stairs stairs stairs stairs stairs stairs ,finance,finance,30
+63,TTL w/ Fixed-SEL (logP0=10.83),10.821623802185059,10.838480949401855,0,1.0, stairs stairs stairs stairs stairs stairs stairs ,finance,finance,30
+64,TTL w/ Fixed-SEL (logP0=10.83),10.818656921386719,10.839519500732422,0,1.0, stairs stairs stairs stairs stairs stairs stairs ,finance,finance,30
+65,TTL w/ Fixed-SEL (logP0=10.83),10.823869705200195,10.83398723602295,0,1.0, stairs stairs stairs stairs stairs stairs stairs ,medical,medical,30
+66,TTL w/ Fixed-SEL (logP0=10.83),10.823319435119629,10.816557884216309,0,1.0, factors factors factors factors factors factors f,medical,medical,30
+67,TTL w/ Fixed-SEL (logP0=10.83),10.827349662780762,10.81750774383545,0,1.0, factors factors factors factors factors factors f,finance,finance,32
+68,TTL w/ Fixed-SEL (logP0=10.83),10.825090408325195,10.833222389221191,0,1.0, stairs stairs stairs stairs stairs stairs stairs ,medical,medical,32
+69,TTL w/ Fixed-SEL (logP0=10.83),10.823817253112793,10.834150314331055,0,1.0, stairs stairs stairs stairs stairs stairs stairs ,finance,finance,32
+70,TTL w/ Fixed-SEL (logP0=10.83),10.821954727172852,10.826465606689453,0,1.0, stairs stairs stairs stairs stairs stairs stairs ,medical,medical,32
+71,TTL w/ Fixed-SEL (logP0=10.83),10.825024604797363,10.839455604553223,0,1.0, stairs stairs stairs stairs stairs stairs stairs ,finance,finance,32
+72,TTL w/ Fixed-SEL (logP0=10.83),10.825133323669434,10.83016300201416,0,1.0, stairs stairs stairs stairs stairs stairs stairs ,medical,medical,32
+73,TTL w/ Fixed-SEL (logP0=10.83),10.819944381713867,10.827079772949219,0,1.0, stairs stairs stairs stairs stairs stairs stairs ,finance,finance,32
+74,TTL w/ Fixed-SEL (logP0=10.83),10.828909873962402,10.817984580993652,0,1.0, factors factors factors factors factors factors f,finance,finance,34
+75,TTL w/ Fixed-SEL (logP0=10.83),10.825516700744629,10.833253860473633,0,0.0, stairs stairs stairs stairs stairs stairs stairs ,finance,medical,34
+76,TTL w/ Fixed-SEL (logP0=10.83),10.824660301208496,10.830913543701172,0,1.0, stairs stairs stairs stairs stairs stairs stairs ,medical,medical,34
+77,TTL w/ Fixed-SEL (logP0=10.83),10.824655532836914,10.820913314819336,0,1.0, factors factors factors factors factors factors f,medical,medical,34
+78,TTL w/ Fixed-SEL (logP0=10.83),10.822652816772461,10.830647468566895,0,0.0, stairs stairs stairs stairs stairs stairs stairs ,finance,medical,34
+79,TTL w/ Fixed-SEL (logP0=10.83),10.823945045471191,10.833969116210938,0,1.0, stairs stairs stairs stairs stairs stairs stairs ,finance,finance,34
+80,TTL w/ Fixed-SEL (logP0=10.83),10.82049560546875,10.838438987731934,0,1.0, stairs stairs stairs stairs stairs stairs stairs ,finance,finance,34
+81,TTL w/ Fixed-SEL (logP0=10.83),10.824331283569336,10.816530227661133,0,1.0, factors factors factors factors factors factors f,medical,medical,34
+82,TTL w/ Fixed-SEL (logP0=10.83),10.822840690612793,10.834002494812012,0,1.0, stairs stairs stairs stairs stairs stairs stairs ,medical,medical,34
+83,TTL w/ Fixed-SEL (logP0=10.83),10.826419830322266,10.838513374328613,0,1.0, stairs stairs stairs stairs stairs stairs stairs ,finance,finance,36
+84,TTL w/ Fixed-SEL (logP0=10.83),10.826183319091797,10.830615997314453,0,1.0, stairs stairs stairs stairs stairs stairs stairs ,medical,medical,38
+85,TTL w/ Fixed-SEL (logP0=10.83),10.82750129699707,10.810918807983398,0,1.0, factors factors factors factors factors factors f,finance,finance,40
+86,TTL w/ Fixed-SEL (logP0=10.83),10.823050498962402,10.82022762298584,0,1.0, factors factors factors factors factors factors f,medical,medical,40
+87,TTL w/ Fixed-SEL (logP0=10.83),10.821038246154785,10.834002494812012,0,1.0, stairs stairs stairs stairs stairs stairs stairs ,medical,medical,40
+88,TTL w/ Fixed-SEL (logP0=10.83),10.827457427978516,10.834488868713379,0,1.0, stairs stairs stairs stairs stairs stairs stairs ,finance,finance,42
+89,TTL w/ Fixed-SEL (logP0=10.83),10.829148292541504,10.817551612854004,0,1.0, factors factors factors factors factors factors f,finance,finance,44
+90,TTL w/ Fixed-SEL (logP0=10.83),10.831546783447266,10.817639350891113,0,1.0, factors factors factors factors factors factors f,finance,finance,46
+91,TTL w/ Fixed-SEL (logP0=10.83),10.826207160949707,10.833992004394531,0,1.0, stairs stairs stairs stairs stairs stairs stairs ,medical,medical,48
+92,TTL w/ Fixed-SEL (logP0=10.83),10.825092315673828,10.816530227661133,0,0.0, factors factors factors factors factors factors f,finance,medical,48
+93,TTL w/ Fixed-SEL (logP0=10.83),10.8233003616333,10.83399486541748,0,0.0, stairs stairs stairs stairs stairs stairs stairs ,finance,medical,48
+94,TTL w/ Fixed-SEL (logP0=10.83),10.821475982666016,10.83399486541748,0,0.0, stairs stairs stairs stairs stairs stairs stairs ,finance,medical,48
+95,TTL w/ Fixed-SEL (logP0=10.83),10.826257705688477,10.830901145935059,0,1.0, stairs stairs stairs stairs stairs stairs stairs ,medical,medical,50
+96,TTL w/ Fixed-SEL (logP0=10.83),10.826066970825195,10.833295822143555,0,1.0, stairs stairs stairs stairs stairs stairs stairs ,medical,medical,52
+97,TTL w/ Fixed-SEL (logP0=10.83),10.82586669921875,10.838399887084961,0,1.0, stairs stairs stairs stairs stairs stairs stairs ,finance,finance,54
+98,TTL w/ Fixed-SEL (logP0=10.83),10.824223518371582,10.833996772766113,0,1.0, stairs stairs stairs stairs stairs stairs stairs ,medical,medical,54
+99,TTL w/ Fixed-SEL (logP0=10.83),10.826081275939941,10.816529273986816,0,0.0, factors factors factors factors factors factors f,finance,medical,56
+100,TTL w/ Fixed-SEL (logP0=10.83),10.827008247375488,10.8207426071167,0,0.0, factors factors factors factors factors factors f,finance,medical,58
+1,"TTL w/ Quantile-SEL (ours, M=10, q=0.7)",10.82846450805664,10.818216323852539,0,1.0, factors factors factors factors factors factors f,finance,finance,0
+2,"TTL w/ Quantile-SEL (ours, M=10, q=0.7)",10.823395729064941,10.83081340789795,0,1.0, stairs stairs stairs stairs stairs stairs stairs ,medical,medical,0
+3,"TTL w/ Quantile-SEL (ours, M=10, q=0.7)",10.826011657714844,10.838443756103516,0,1.0, stairs stairs stairs stairs stairs stairs stairs ,finance,finance,0
+4,"TTL w/ Quantile-SEL (ours, M=10, q=0.7)",10.821818351745605,10.833995819091797,0,0.0, stairs stairs stairs stairs stairs stairs stairs ,finance,medical,0
+5,"TTL w/ Quantile-SEL (ours, M=10, q=0.7)",10.825599670410156,10.82778549194336,0,1.0, stairs stairs stairs stairs stairs stairs stairs ,finance,finance,0
+6,"TTL w/ Quantile-SEL (ours, M=10, q=0.7)",10.823479652404785,10.830324172973633,0,1.0, stairs stairs stairs stairs stairs stairs stairs ,medical,medical,0
+7,"TTL w/ Quantile-SEL (ours, M=10, q=0.7)",10.827792167663574,10.818169593811035,0,1.0, factors factors factors factors factors factors f,finance,finance,0
+8,"TTL w/ Quantile-SEL (ours, M=10, q=0.7)",10.821552276611328,10.834481239318848,0,1.0, stairs stairs stairs stairs stairs stairs stairs ,finance,finance,0
+9,"TTL w/ Quantile-SEL (ours, M=10, q=0.7)",10.82421875,10.834510803222656,0,1.0, stairs stairs stairs stairs stairs stairs stairs ,finance,finance,0
+10,"TTL w/ Quantile-SEL (ours, M=10, q=0.7)",10.821417808532715,10.826704025268555,0,1.0, stairs stairs stairs stairs stairs stairs stairs ,medical,medical,2
+11,"TTL w/ Quantile-SEL (ours, M=10, q=0.7)",10.822798728942871,10.834541320800781,0,1.0, stairs stairs stairs stairs stairs stairs stairs ,finance,finance,2
+12,"TTL w/ Quantile-SEL (ours, M=10, q=0.7)",10.822609901428223,10.830841064453125,0,1.0, stairs stairs stairs stairs stairs stairs stairs ,medical,medical,2
+13,"TTL w/ Quantile-SEL (ours, M=10, q=0.7)",10.825370788574219,10.827825546264648,0,1.0, stairs stairs stairs stairs stairs stairs stairs ,finance,finance,2
+14,"TTL w/ Quantile-SEL (ours, M=10, q=0.7)",10.824179649353027,10.833637237548828,0,1.0, stairs stairs stairs stairs stairs stairs stairs ,medical,medical,2
+15,"TTL w/ Quantile-SEL (ours, M=10, q=0.7)",10.824860572814941,10.838440895080566,0,1.0, stairs stairs stairs stairs stairs stairs stairs ,finance,finance,2
+16,"TTL w/ Quantile-SEL (ours, M=10, q=0.7)",10.824746131896973,10.833969116210938,0,1.0, stairs stairs stairs stairs stairs stairs stairs ,medical,medical,2
+17,"TTL w/ Quantile-SEL (ours, M=10, q=0.7)",10.827289581298828,10.81824779510498,0,1.0, factors factors factors factors factors factors f,finance,finance,2
+18,"TTL w/ Quantile-SEL (ours, M=10, q=0.7)",10.823969841003418,10.834550857543945,0,1.0, stairs stairs stairs stairs stairs stairs stairs ,finance,finance,2
+19,"TTL w/ Quantile-SEL (ours, M=10, q=0.7)",10.822257995605469,10.833253860473633,0,1.0, stairs stairs stairs stairs stairs stairs stairs ,medical,medical,2
+20,"TTL w/ Quantile-SEL (ours, M=10, q=0.7)",10.82248306274414,10.816530227661133,0,1.0, factors factors factors factors factors factors f,medical,medical,4
+21,"TTL w/ Quantile-SEL (ours, M=10, q=0.7)",10.826887130737305,10.833752632141113,0,1.0, stairs stairs stairs stairs stairs stairs stairs ,finance,finance,4
+22,"TTL w/ Quantile-SEL (ours, M=10, q=0.7)",10.82595157623291,10.810916900634766,0,1.0, factors factors factors factors factors factors f,finance,finance,4
+23,"TTL w/ Quantile-SEL (ours, M=10, q=0.7)",10.822988510131836,10.83370304107666,0,1.0, stairs stairs stairs stairs stairs stairs stairs ,finance,finance,4
+24,"TTL w/ Quantile-SEL (ours, M=10, q=0.7)",10.81982707977295,10.833635330200195,0,1.0, stairs stairs stairs stairs stairs stairs stairs ,medical,medical,4
+25,"TTL w/ Quantile-SEL (ours, M=10, q=0.7)",10.822431564331055,10.816530227661133,0,1.0, factors factors factors factors factors factors f,medical,medical,4
+26,"TTL w/ Quantile-SEL (ours, M=10, q=0.7)",10.825143814086914,10.830840110778809,0,1.0, stairs stairs stairs stairs stairs stairs stairs ,medical,medical,4
+27,"TTL w/ Quantile-SEL (ours, M=10, q=0.7)",10.822978973388672,10.834511756896973,0,1.0, stairs stairs stairs stairs stairs stairs stairs ,finance,finance,4
+28,"TTL w/ Quantile-SEL (ours, M=10, q=0.7)",10.824352264404297,10.834510803222656,0,1.0, stairs stairs stairs stairs stairs stairs stairs ,finance,finance,4
+29,"TTL w/ Quantile-SEL (ours, M=10, q=0.7)",10.822641372680664,10.834518432617188,0,1.0, stairs stairs stairs stairs stairs stairs stairs ,finance,finance,4
+30,"TTL w/ Quantile-SEL (ours, M=10, q=0.7)",10.830353736877441,10.810916900634766,0,1.0, factors factors factors factors factors factors f,finance,finance,6
+31,"TTL w/ Quantile-SEL (ours, M=10, q=0.7)",10.825248718261719,10.83845329284668,0,1.0, stairs stairs stairs stairs stairs stairs stairs ,finance,finance,6
+32,"TTL w/ Quantile-SEL (ours, M=10, q=0.7)",10.821394920349121,10.83078670501709,0,1.0, stairs stairs stairs stairs stairs stairs stairs ,medical,medical,6
+33,"TTL w/ Quantile-SEL (ours, M=10, q=0.7)",10.826025009155273,10.838449478149414,0,1.0, stairs stairs stairs stairs stairs stairs stairs ,finance,finance,6
+34,"TTL w/ Quantile-SEL (ours, M=10, q=0.7)",10.82534408569336,10.834410667419434,0,1.0, stairs stairs stairs stairs stairs stairs stairs ,finance,finance,6
+35,"TTL w/ Quantile-SEL (ours, M=10, q=0.7)",10.829298973083496,10.826737403869629,0,1.0, stairs stairs stairs stairs stairs stairs stairs ,medical,medical,6
+36,"TTL w/ Quantile-SEL (ours, M=10, q=0.7)",10.829843521118164,10.810917854309082,0,1.0, factors factors factors factors factors factors f,finance,finance,6
+37,"TTL w/ Quantile-SEL (ours, M=10, q=0.7)",10.822978973388672,10.83440113067627,0,1.0, stairs stairs stairs stairs stairs stairs stairs ,finance,finance,6
+38,"TTL w/ Quantile-SEL (ours, M=10, q=0.7)",10.823723793029785,10.833967208862305,0,1.0, stairs stairs stairs stairs stairs stairs stairs ,medical,medical,6
+39,"TTL w/ Quantile-SEL (ours, M=10, q=0.7)",10.823963165283203,10.833288192749023,0,1.0, stairs stairs stairs stairs stairs stairs stairs ,medical,medical,6
+40,"TTL w/ Quantile-SEL (ours, M=10, q=0.7)",10.825030326843262,10.833967208862305,0,1.0, stairs stairs stairs stairs stairs stairs stairs ,medical,medical,8
+41,"TTL w/ Quantile-SEL (ours, M=10, q=0.7)",10.82425308227539,10.830728530883789,0,1.0, stairs stairs stairs stairs stairs stairs stairs ,medical,medical,8
+42,"TTL w/ Quantile-SEL (ours, M=10, q=0.7)",10.823250770568848,10.833995819091797,0,0.0, stairs stairs stairs stairs stairs stairs stairs ,finance,medical,8
+43,"TTL w/ Quantile-SEL (ours, M=10, q=0.7)",10.825339317321777,10.833922386169434,0,0.0, stairs stairs stairs stairs stairs stairs stairs ,finance,medical,8
+44,"TTL w/ Quantile-SEL (ours, M=10, q=0.7)",10.823969841003418,10.827776908874512,0,1.0, stairs stairs stairs stairs stairs stairs stairs ,finance,finance,8
+45,"TTL w/ Quantile-SEL (ours, M=10, q=0.7)",10.82398796081543,10.834303855895996,0,1.0, stairs stairs stairs stairs stairs stairs stairs ,finance,finance,8
+46,"TTL w/ Quantile-SEL (ours, M=10, q=0.7)",10.82692813873291,10.81786823272705,0,1.0, factors factors factors factors factors factors f,finance,finance,8
+47,"TTL w/ Quantile-SEL (ours, M=10, q=0.7)",10.821660995483398,10.818449020385742,0,1.0, factors factors factors factors factors factors f,medical,medical,8
+48,"TTL w/ Quantile-SEL (ours, M=10, q=0.7)",10.826336860656738,10.820920944213867,0,0.0, factors factors factors factors factors factors f,finance,medical,8
+49,"TTL w/ Quantile-SEL (ours, M=10, q=0.7)",10.822558403015137,10.838404655456543,0,1.0, stairs stairs stairs stairs stairs stairs stairs ,finance,finance,8
+50,"TTL w/ Quantile-SEL (ours, M=10, q=0.7)",10.82248306274414,10.830693244934082,0,1.0, stairs stairs stairs stairs stairs stairs stairs ,medical,medical,10
+51,"TTL w/ Quantile-SEL (ours, M=10, q=0.7)",10.82679271697998,10.810917854309082,0,1.0, factors factors factors factors factors factors f,finance,finance,10
+52,"TTL w/ Quantile-SEL (ours, M=10, q=0.7)",10.824987411499023,10.816530227661133,0,1.0, factors factors factors factors factors factors f,medical,medical,10
+53,"TTL w/ Quantile-SEL (ours, M=10, q=0.7)",10.821879386901855,10.833988189697266,0,1.0, stairs stairs stairs stairs stairs stairs stairs ,medical,medical,10
+54,"TTL w/ Quantile-SEL (ours, M=10, q=0.7)",10.824016571044922,10.818320274353027,0,1.0, factors factors factors factors factors factors f,finance,finance,10
+55,"TTL w/ Quantile-SEL (ours, M=10, q=0.7)",10.820474624633789,10.827515602111816,0,1.0, stairs stairs stairs stairs stairs stairs stairs ,finance,finance,10
+56,"TTL w/ Quantile-SEL (ours, M=10, q=0.7)",10.82101058959961,10.833918571472168,0,1.0, stairs stairs stairs stairs stairs stairs stairs ,medical,medical,10
+57,"TTL w/ Quantile-SEL (ours, M=10, q=0.7)",10.828646659851074,10.818249702453613,0,1.0, factors factors factors factors factors factors f,finance,finance,10
+58,"TTL w/ Quantile-SEL (ours, M=10, q=0.7)",10.825251579284668,10.833993911743164,0,0.0, stairs stairs stairs stairs stairs stairs stairs ,finance,medical,10
+59,"TTL w/ Quantile-SEL (ours, M=10, q=0.7)",10.827177047729492,10.833921432495117,0,1.0, stairs stairs stairs stairs stairs stairs stairs ,medical,medical,10
+60,"TTL w/ Quantile-SEL (ours, M=10, q=0.7)",10.822121620178223,10.834260940551758,0,1.0, stairs stairs stairs stairs stairs stairs stairs ,finance,finance,12
+61,"TTL w/ Quantile-SEL (ours, M=10, q=0.7)",10.824316024780273,10.833245277404785,0,1.0, stairs stairs stairs stairs stairs stairs stairs ,medical,medical,12
+62,"TTL w/ Quantile-SEL (ours, M=10, q=0.7)",10.82352352142334,10.839522361755371,0,1.0, stairs stairs stairs stairs stairs stairs stairs ,finance,finance,12
+63,"TTL w/ Quantile-SEL (ours, M=10, q=0.7)",10.821669578552246,10.83846378326416,0,1.0, stairs stairs stairs stairs stairs stairs stairs ,finance,finance,12
+64,"TTL w/ Quantile-SEL (ours, M=10, q=0.7)",10.818626403808594,10.839521408081055,0,1.0, stairs stairs stairs stairs stairs stairs stairs ,finance,finance,12
+65,"TTL w/ Quantile-SEL (ours, M=10, q=0.7)",10.823830604553223,10.83398723602295,0,1.0, stairs stairs stairs stairs stairs stairs stairs ,medical,medical,12
+66,"TTL w/ Quantile-SEL (ours, M=10, q=0.7)",10.82328987121582,10.816557884216309,0,1.0, factors factors factors factors factors factors f,medical,medical,12
+67,"TTL w/ Quantile-SEL (ours, M=10, q=0.7)",10.827354431152344,10.817691802978516,0,1.0, factors factors factors factors factors factors f,finance,finance,12
+68,"TTL w/ Quantile-SEL (ours, M=10, q=0.7)",10.825077056884766,10.833231925964355,0,1.0, stairs stairs stairs stairs stairs stairs stairs ,medical,medical,12
+69,"TTL w/ Quantile-SEL (ours, M=10, q=0.7)",10.823781967163086,10.834259986877441,0,1.0, stairs stairs stairs stairs stairs stairs stairs ,finance,finance,12
+70,"TTL w/ Quantile-SEL (ours, M=10, q=0.7)",10.821910858154297,10.82648754119873,0,1.0, stairs stairs stairs stairs stairs stairs stairs ,medical,medical,14
+71,"TTL w/ Quantile-SEL (ours, M=10, q=0.7)",10.825017929077148,10.839454650878906,0,1.0, stairs stairs stairs stairs stairs stairs stairs ,finance,finance,14
+72,"TTL w/ Quantile-SEL (ours, M=10, q=0.7)",10.825143814086914,10.830184936523438,0,1.0, stairs stairs stairs stairs stairs stairs stairs ,medical,medical,14
+73,"TTL w/ Quantile-SEL (ours, M=10, q=0.7)",10.819944381713867,10.827159881591797,0,1.0, stairs stairs stairs stairs stairs stairs stairs ,finance,finance,14
+74,"TTL w/ Quantile-SEL (ours, M=10, q=0.7)",10.828908920288086,10.818018913269043,0,1.0, factors factors factors factors factors factors f,finance,finance,14
+75,"TTL w/ Quantile-SEL (ours, M=10, q=0.7)",10.825542449951172,10.83325481414795,0,0.0, stairs stairs stairs stairs stairs stairs stairs ,finance,medical,14
+76,"TTL w/ Quantile-SEL (ours, M=10, q=0.7)",10.824650764465332,10.830901145935059,0,1.0, stairs stairs stairs stairs stairs stairs stairs ,medical,medical,14
+77,"TTL w/ Quantile-SEL (ours, M=10, q=0.7)",10.82463264465332,10.820902824401855,0,1.0, factors factors factors factors factors factors f,medical,medical,14
+78,"TTL w/ Quantile-SEL (ours, M=10, q=0.7)",10.822643280029297,10.830684661865234,0,0.0, stairs stairs stairs stairs stairs stairs stairs ,finance,medical,14
+79,"TTL w/ Quantile-SEL (ours, M=10, q=0.7)",10.82393741607666,10.834077835083008,0,1.0, stairs stairs stairs stairs stairs stairs stairs ,finance,finance,14
+80,"TTL w/ Quantile-SEL (ours, M=10, q=0.7)",10.820528984069824,10.838440895080566,0,1.0, stairs stairs stairs stairs stairs stairs stairs ,finance,finance,16
+81,"TTL w/ Quantile-SEL (ours, M=10, q=0.7)",10.824334144592285,10.81653118133545,0,1.0, factors factors factors factors factors factors f,medical,medical,16
+82,"TTL w/ Quantile-SEL (ours, M=10, q=0.7)",10.82283878326416,10.834003448486328,0,1.0, stairs stairs stairs stairs stairs stairs stairs ,medical,medical,16
+83,"TTL w/ Quantile-SEL (ours, M=10, q=0.7)",10.826419830322266,10.838507652282715,0,1.0, stairs stairs stairs stairs stairs stairs stairs ,finance,finance,16
+84,"TTL w/ Quantile-SEL (ours, M=10, q=0.7)",10.826186180114746,10.830658912658691,0,1.0, stairs stairs stairs stairs stairs stairs stairs ,medical,medical,16
+85,"TTL w/ Quantile-SEL (ours, M=10, q=0.7)",10.827463150024414,10.810918807983398,0,1.0, factors factors factors factors factors factors f,finance,finance,16
+86,"TTL w/ Quantile-SEL (ours, M=10, q=0.7)",10.823010444641113,10.820350646972656,0,1.0, factors factors factors factors factors factors f,medical,medical,16
+87,"TTL w/ Quantile-SEL (ours, M=10, q=0.7)",10.82097339630127,10.834003448486328,0,1.0, stairs stairs stairs stairs stairs stairs stairs ,medical,medical,16
+88,"TTL w/ Quantile-SEL (ours, M=10, q=0.7)",10.827430725097656,10.834309577941895,0,1.0, stairs stairs stairs stairs stairs stairs stairs ,finance,finance,16
+89,"TTL w/ Quantile-SEL (ours, M=10, q=0.7)",10.829133987426758,10.817715644836426,0,1.0, factors factors factors factors factors factors f,finance,finance,16
+90,"TTL w/ Quantile-SEL (ours, M=10, q=0.7)",10.831510543823242,10.81771183013916,0,1.0, factors factors factors factors factors factors f,finance,finance,18
+91,"TTL w/ Quantile-SEL (ours, M=10, q=0.7)",10.82618236541748,10.833992004394531,0,1.0, stairs stairs stairs stairs stairs stairs stairs ,medical,medical,18
+92,"TTL w/ Quantile-SEL (ours, M=10, q=0.7)",10.825143814086914,10.816530227661133,0,0.0, factors factors factors factors factors factors f,finance,medical,18
+93,"TTL w/ Quantile-SEL (ours, M=10, q=0.7)",10.823246955871582,10.833995819091797,0,0.0, stairs stairs stairs stairs stairs stairs stairs ,finance,medical,18
+94,"TTL w/ Quantile-SEL (ours, M=10, q=0.7)",10.821483612060547,10.83399486541748,0,0.0, stairs stairs stairs stairs stairs stairs stairs ,finance,medical,18
+95,"TTL w/ Quantile-SEL (ours, M=10, q=0.7)",10.82625961303711,10.830902099609375,0,1.0, stairs stairs stairs stairs stairs stairs stairs ,medical,medical,18
+96,"TTL w/ Quantile-SEL (ours, M=10, q=0.7)",10.826042175292969,10.833297729492188,0,1.0, stairs stairs stairs stairs stairs stairs stairs ,medical,medical,18
+97,"TTL w/ Quantile-SEL (ours, M=10, q=0.7)",10.825857162475586,10.838403701782227,0,1.0, stairs stairs stairs stairs stairs stairs stairs ,finance,finance,18
+98,"TTL w/ Quantile-SEL (ours, M=10, q=0.7)",10.824219703674316,10.833996772766113,0,1.0, stairs stairs stairs stairs stairs stairs stairs ,medical,medical,18
+99,"TTL w/ Quantile-SEL (ours, M=10, q=0.7)",10.826081275939941,10.816530227661133,0,0.0, factors factors factors factors factors factors f,finance,medical,18
+100,"TTL w/ Quantile-SEL (ours, M=10, q=0.7)",10.827007293701172,10.82068157196045,0,0.0, factors factors factors factors factors factors f,finance,medical,20

@@ -1,0 +1,30 @@
+[
+  {
+    "method": "Baseline",
+    "avg_ppl_in": 10.83135375181834,
+    "avg_ppl_out": 10.831134525934855,
+    "total_backward": 0,
+    "efficiency": 4.6596527099609375
+  },
+  {
+    "method": "TTL (no SEL)",
+    "avg_ppl_in": 10.82988821665446,
+    "avg_ppl_out": 10.82971421877543,
+    "total_backward": 120,
+    "efficiency": 0.0444332758585612
+  },
+  {
+    "method": "Fixed-SEL",
+    "avg_ppl_in": 10.830682333310445,
+    "avg_ppl_out": 10.830482363700867,
+    "total_backward": 27,
+    "efficiency": 0.2125634087456597
+  },
+  {
+    "method": "Quantile-SEL (ours)",
+    "avg_ppl_in": 10.831102752685547,
+    "avg_ppl_out": 10.830891823768615,
+    "total_backward": 12,
+    "efficiency": 0.42557716369628906
+  }
+]
